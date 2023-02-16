@@ -1,4 +1,4 @@
-package DesignPattern;
+package com.DesignPattern;
 
 interface  icheese{
     public iToppings addCheese(String s);
