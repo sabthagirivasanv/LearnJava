@@ -13,7 +13,7 @@ interface  iSauce{
     public Subway.SubwayBuilder addSauce(String s);
 }
 
-public class Subway {
+class Subway {
     private String bread;
     private String sauce;
     private String veggie;
